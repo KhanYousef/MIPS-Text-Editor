@@ -8,15 +8,16 @@ After this connect to the MMIO Simulator from the "tools" option
 Follow the instructions to setup background and highlights colours for the editor
 
 
-Press " ` " followed by any of the following to move the cursor
-`d: backspace
-`
-`h: move cursor up
-`
-`k: move cursor down
-`
-`j: move cursor left
-`l: move cursor right
+Press " ' " (character on the tilde key) followed by any of the following to move the cursor
+d: backspace
+
+h: move cursor up
+
+k: move cursor down
+
+j: move cursor left
+
+l: move cursor right
 
 You can type anything til the end of a line where you must enter to go to the next line.
 
