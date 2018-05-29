@@ -11,7 +11,7 @@ Follow the instructions to setup background and highlights colours for the edito
 `h: move cursor up
 `k: move cursor down
 `j: move cursor left
-`l: move cursor right
+``l: move cursor right
 
 You can type anything til the end of a line where you must enter to go to the next line.
 
