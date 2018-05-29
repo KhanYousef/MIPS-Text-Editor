@@ -7,6 +7,8 @@ After this connect to the MMIO Simulator from the "tools" option
 
 Follow the instructions to setup background and highlights colours for the editor
 
+
+Press " ` " followed by any of the following to move the cursor
 `d: backspace
 `
 `h: move cursor up
